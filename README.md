@@ -1,4 +1,4 @@
-## Hi there, I'm Manuel Thimoty Silalahi 👋
+## Hi there, I'm Manuel 👋
 ## 🚀 About Me
 - 🌱 I’m a 2nd year student in Bandung Institute of Technology Majoring Informatics Engineering 🔭
 - 🤔 Interested in Machine Learning and Artificial Intelligence
