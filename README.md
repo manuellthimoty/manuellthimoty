@@ -43,3 +43,4 @@ Informatics Engineering student at Institut Teknologi Bandung, building toward a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-silalahi-b61641251/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/manuelthimoty/)
 [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/manuel_thimoty/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=flat-square&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/USERNAME](https://codeforces.com/profile/nuuuu06))
